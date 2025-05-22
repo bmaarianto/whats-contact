@@ -11,11 +11,6 @@ Setiap kontak memiliki avatar otomatis berbasis inisial nama, nomor telepon, dan
 - Animasi fade-out saat menghapus kontak.
 - Layout responsif dan modern.
 
-## Demo
-
-![Demo Screenshot](./screenshot.png)  
-_(Tambahkan screenshot project di sini jika ada)_
-
 ## Cara Pakai
 
 1. Clone repository ini:
